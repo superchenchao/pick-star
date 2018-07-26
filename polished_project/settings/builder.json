@@ -1,0 +1,39 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.polished_project",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "abd35c33-6ba8-4a4d-b24b-004ba6b684a7",
+  "title": "polished_project",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx16cec8cc9be3b2d7",
+    "orientation": "landscape",
+    "subContext": "polished_sub"
+  },
+  "xxteaKey": "fd9ca5d9-1b7d-41",
+  "zipCompressJs": true
+}

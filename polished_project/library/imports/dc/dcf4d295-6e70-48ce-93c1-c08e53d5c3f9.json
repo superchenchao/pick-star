@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "watchout",
+    "texture": "7803ff92-4bf4-4bdb-951a-dbf5b7d9cadc",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1019,
+      1019
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

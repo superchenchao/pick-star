@@ -1,0 +1,55 @@
+2018-07-25T09:27:01.710Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-25T09:27:01.715Z - normal: checking language setting...
+2018-07-25T09:27:01.715Z - normal: Language: zh
+2018-07-25T09:27:03.512Z - success: protocol editor-framework registered
+2018-07-25T09:27:03.512Z - success: protocol app registered
+2018-07-25T09:27:03.512Z - success: protocol theme registered
+2018-07-25T09:27:03.512Z - success: protocol packages registered
+2018-07-25T09:27:03.512Z - success: protocol unpack registerred
+2018-07-25T09:27:03.512Z - success: protocol disable-commonjs registerred
+2018-07-25T09:27:03.707Z - normal: connected!
+2018-07-25T09:27:03.708Z - normal: Check project D:\cocoscreate_test\polished_project
+2018-07-25T09:27:03.709Z - normal: Initializing Cocos2d
+2018-07-25T09:27:03.900Z - normal: Initializing Asset Database
+2018-07-25T09:27:03.931Z - success: protocol uuid registerred
+2018-07-25T09:27:03.931Z - success: protocol db registerred
+2018-07-25T09:27:03.931Z - success: protocol thumbnail registerred
+2018-07-25T09:27:03.931Z - normal: Loading editor/builtin packages
+2018-07-25T09:27:03.948Z - success: anysdk loaded
+2018-07-25T09:27:04.057Z - success: assets loaded
+2018-07-25T09:27:04.059Z - success: builder loaded
+2018-07-25T09:27:04.061Z - success: cocos-analytics loaded
+2018-07-25T09:27:04.064Z - success: console loaded
+2018-07-25T09:27:04.102Z - success: fb-instant-games loaded
+2018-07-25T09:27:04.104Z - success: hierarchy loaded
+2018-07-25T09:27:04.106Z - success: inspector loaded
+2018-07-25T09:27:04.107Z - success: keystore loaded
+2018-07-25T09:27:04.109Z - success: node-library loaded
+2018-07-25T09:27:04.110Z - success: package-asset loaded
+2018-07-25T09:27:04.112Z - success: preferences loaded
+2018-07-25T09:27:04.113Z - success: project-exporter loaded
+2018-07-25T09:27:04.128Z - success: project-importer loaded
+2018-07-25T09:27:04.129Z - success: project-settings loaded
+2018-07-25T09:27:04.131Z - success: ui-kit loaded
+2018-07-25T09:27:04.132Z - success: ui-grid loaded
+2018-07-25T09:27:04.135Z - success: scene loaded
+2018-07-25T09:27:04.137Z - success: sprite-editor loaded
+2018-07-25T09:27:04.140Z - success: store loaded
+2018-07-25T09:27:04.144Z - success: timeline loaded
+2018-07-25T09:27:04.144Z - normal: Loading builtin packages
+2018-07-25T09:27:04.146Z - success: asset-db-debugger loaded
+2018-07-25T09:27:04.147Z - success: code-editor loaded
+2018-07-25T09:27:04.147Z - success: color-picker loaded
+2018-07-25T09:27:04.149Z - success: package-manager loaded
+2018-07-25T09:27:04.153Z - success: sdkbox loaded
+2018-07-25T09:27:04.155Z - success: tester loaded
+2018-07-25T09:27:04.157Z - success: ui-kit-preview-extra loaded
+2018-07-25T09:27:04.159Z - success: ui-kit-preview loaded
+2018-07-25T09:27:04.160Z - success: ui-tree loaded
+2018-07-25T09:27:05.152Z - normal: Initializing project D:\cocoscreate_test\polished_project
+2018-07-25T09:27:05.156Z - normal: Loading packages
+2018-07-25T09:27:05.160Z - normal: Watching packages
+2018-07-25T09:27:05.170Z - normal: Run Application
+2018-07-25T09:27:05.808Z - success: preview server running at http://localhost:7457
+2018-07-25T09:27:10.736Z - normal: 1.9.1
+2018-07-25T09:42:59.759Z - info: shutdown preview server

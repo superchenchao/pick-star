@@ -1,0 +1,103 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cc",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "two": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                117,
+                15
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                117,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                117,
+                15
+              ]
+            }
+          ]
+        }
+      },
+      "one": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                90,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                90,
+                15
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                90,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "three": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                149,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                149,
+                15
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                149,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "props": {}
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "",
+      "params": []
+    }
+  ]
+}
